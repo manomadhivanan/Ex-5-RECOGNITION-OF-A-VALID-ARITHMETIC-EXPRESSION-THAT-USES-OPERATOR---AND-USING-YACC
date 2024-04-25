@@ -67,7 +67,8 @@ yyparse();
 
 
 # OUTPUT
-![image](https://github.com/manomadhivanan/Ex-5-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR---AND-USING-YACC/assets/127172770/7867c7f0-ef29-4432-91cc-83ee89f137c5)
+<img width="490" alt="image" src="https://github.com/manomadhivanan/Ex-5-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR---AND-USING-YACC/assets/115543366/b6a01af5-da6f-4e75-8a56-c663bbef7408">
+
 
 
 # RESULT
